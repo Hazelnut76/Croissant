@@ -1,0 +1,33 @@
+body {
+  background: #f8e8a6;
+}
+
+h1 {
+    text-align: center;
+}
+
+.croissant-description {
+text-align: center;
+}
+
+.contact-info {
+    text-align: center;
+}
+.croissant-image {
+    display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+footer {
+    display: block;
+    text-align: center;
+   
+}
+
+footer a {
+    margin: 0px 10px;
+    color: green;
+     
+}
